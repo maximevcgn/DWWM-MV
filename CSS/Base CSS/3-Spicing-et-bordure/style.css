@@ -1,0 +1,28 @@
+p{
+    font-size: 35px;
+    margin: 20px;
+   /* margin: 20px 25px;
+    margin:  20px 25px 30px 35px;
+    margin: 200px 20px 0px; */
+    background-color: coral;
+    margin:80px 0px;
+    padding: 100px;
+
+    border-width: 10px;
+    border-style: solid;
+    border-color: #000000;
+    
+    border: 10px solid #00ff2a;
+
+    /* Border Radius */
+
+    border-radius: 50px;
+    
+    /* Border radius :5px 40px 8px 60px */
+
+}
+
+span{
+    font-size: 45px;
+    margin-top: 150px;
+}

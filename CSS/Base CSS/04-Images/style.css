@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+/* img{
+    width: 650px;
+    height: 250px;
+    object-fit: cover;
+} */
+
+/* .imageFond{
+    height: 100vh;
+    background-color: coral;
+    background-image: url("./images/nature-1.jpg");
+    background-repeat: no-repeat;
+    /* background-position: right; */
+    /* background-size: cover; */
+
+/* } */ 
+
+p{
+    font-family: 'Montserrat', sans-serif;
+}

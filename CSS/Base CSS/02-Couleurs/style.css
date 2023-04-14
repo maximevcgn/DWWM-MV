@@ -1,0 +1,28 @@
+body{
+    background-color: #cbc7c7;
+}
+
+.box{
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+    margin-top: 150px;
+
+    /* named color */
+    background-color: salmon;
+
+    /* format RGB:Red Green Blue */
+    background-color: rgb(250, 128, 114);
+
+    background-color: rgba(250, 128, 114, 0.3);
+
+    /* Hexadecimal - La plus utilisée */
+    background-color: #fa8072;
+
+    border: 10px solid blue;
+
+    box-shadow: 0 5px 5px rgba(0,0,0,0.3);
+
+
+}
+

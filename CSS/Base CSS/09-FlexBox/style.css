@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+    padding: 80px;
+}
+.container{
+    width: 800px;
+    height: 300px;
+    background-color: cadetblue;
+    display: flex;
+    column-gap: 30px;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+.enfant{
+    height: 200px;
+    width: 200px;
+    background-color: green;
+}

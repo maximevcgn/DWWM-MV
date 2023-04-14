@@ -1,0 +1,30 @@
+h1{
+    color: blue;
+    font-size: 45px;
+}
+
+/* Différents sélecteurs sont disponibles */
+.title{
+    color: red;
+}
+
+#title-1{
+    background-color: crimson;
+    color: black;
+}
+
+.title.first-title{
+    padding: 20px;
+}
+
+.container p{
+    font-size: 30px;
+    color: violet;
+
+}
+/* Le sélecteur universel */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
